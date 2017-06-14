@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns="http://maven.apache.org/POM/4.0.0"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ncapdevi</groupId>
-  <artifactId>frag-nav</artifactId>
-    <version>2.1.0</version>
+  <artifactId>frag-nav-controller</artifactId>
+  <version>2.0.2</version>
   <packaging>aar</packaging>
-  <name>frag-nav</name>
+  <name>frag-nav-controller</name>
   <description>A library to help manage multiple fragment stacks</description>
   <url>https://github.com/ncapdevi/FragNav</url>
   <inceptionYear>2016</inceptionYear>
