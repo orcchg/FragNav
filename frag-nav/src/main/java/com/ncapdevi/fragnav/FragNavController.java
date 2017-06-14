@@ -439,7 +439,7 @@ public class FragNavController {
         // If we don't have the current dialog, try to find and dismiss it
         else {
             FragmentManager fragmentManager;
-            if (mCurrentFrag != null) {
+            if (mCurrentFrag != null && mCurrentFrag.isAdded()) {
                 fragmentManager = mCurrentFrag.getChildFragmentManager();
             } else {
                 fragmentManager = mFragmentManager;
