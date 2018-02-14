@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ncapdevi</groupId>
-  <artifactId>frag-nav-controller</artifactId>
-  <version>2.0.2</version>
+  <artifactId>frag-nav</artifactId>
+  <version>2.4.0</version>
   <packaging>aar</packaging>
   <name>frag-nav-controller</name>
   <description>A library to help manage multiple fragment stacks</description>
