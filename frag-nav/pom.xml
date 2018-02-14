@@ -6,7 +6,7 @@
   <artifactId>frag-nav</artifactId>
   <version>2.4.0</version>
   <packaging>aar</packaging>
-  <name>frag-nav-controller</name>
+  <name>frag-nav</name>
   <description>A library to help manage multiple fragment stacks</description>
   <url>https://github.com/ncapdevi/FragNav</url>
   <inceptionYear>2016</inceptionYear>

@@ -44,8 +44,8 @@ android {
         abortOnError false
     }
     defaultConfig {
-        minSdkVersion rootProject.ext.minSdkVersion
-        targetSdkVersion rootProject.ext.compileSdkVersion
+        minSdkVersion 14
+        targetSdkVersion 27
         versionCode libraryVersionCode
         versionName libraryVersionName
     }
@@ -68,6 +68,7 @@ android {
 
 dependencies {
     def junitVersion = '4.12'
+    def kotlin_version = '1.2.21'
     def mockitoVersion = '1.10.19'
     def powerMockito = '1.6.2'
     def runnerVersion = '0.5'
